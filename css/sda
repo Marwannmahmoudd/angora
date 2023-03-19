@@ -1,0 +1,12 @@
+<footer class="site-footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                
+                    <input type="text" placeholder="Enter your email to subscribe..." >
+                    <input type="submit" >
+               
+            </div>
+            </div>
+    </div>
+  </footer>
